@@ -1,2 +1,3 @@
 # hello-world
-A demo for creting a repository
+A demo for creating a repository
+This is a demo foor changing the branch 
