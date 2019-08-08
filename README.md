@@ -1,2 +1,2 @@
 # hello-world
-A demo for creting a repository
+A demo for creating a repository
